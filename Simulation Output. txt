@@ -1,0 +1,9 @@
+
+
+Time=0  | Reset=1 | Serial_in=0 | Q=0000
+Time=10 | Reset=0 | Serial_in=1 | Q=0001
+Time=20 | Reset=0 | Serial_in=0 | Q=0010
+Time=30 | Reset=0 | Serial_in=1 | Q=0101
+Time=40 | Reset=0 | Serial_in=1 | Q=1011
+Time=50 | Reset=0 | Serial_in=0 | Q=0110
+
